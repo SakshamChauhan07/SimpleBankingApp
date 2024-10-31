@@ -1,3 +1,5 @@
+// This is the main file a port of entry for the code
+
 package main;
 
 import static main.myUtil.*;// For using my own util methods
