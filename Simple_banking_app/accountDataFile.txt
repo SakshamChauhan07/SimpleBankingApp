@@ -1,3 +1,4 @@
 Saksham,1001,100.0
 Anjali,1002,1000.0
 Hitaishi,1003,500.0
+Invisible,1004,0.0
